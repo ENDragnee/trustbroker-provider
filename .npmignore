@@ -1,0 +1,12 @@
+# .npmignore
+
+# Ignore source code and configuration files
+src/
+tsconfig.json
+.DS_Store
+
+# Ignore node_modules
+node_modules/
+
+# You can also ignore test files if you have them
+__tests__/
